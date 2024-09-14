@@ -1,4 +1,7 @@
 ## Hi there 👋
+- 🌱 I’m currently learning some frontend stuff with angular and vue
+- 👯 I’m looking to collaborate on some open-source stuff in java
+- 💬 Ask me about photos, videos and social media, i love this stuff!
 
 <!--
 **MrMutantus/MrMutantus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
